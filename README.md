@@ -2,8 +2,9 @@ Frontend mentor challange.
 
 challange name : stats-preview-card-component
 
-live URL:
+live URL: https://kk240.github.io/Stats-preview-component/
 
-solution url:
+solution url:https://github.com/kk240/Stats-preview-component
+
 
 Creator: Kundan Suthar.
